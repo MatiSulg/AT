@@ -1,4 +1,4 @@
-package hello.duh;
+package hello;
 
 import java.util.List;
 
